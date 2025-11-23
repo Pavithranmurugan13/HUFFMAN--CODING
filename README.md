@@ -1,4 +1,4 @@
-# Huffman-Coding
+# EXP 11: Huffman-Coding
 # NAME: PAVITHRAN MJ
 # REG NO: 212223240112
 ## Aim
